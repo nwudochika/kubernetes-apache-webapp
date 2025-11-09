@@ -1,6 +1,10 @@
 # kubernetes-apache-webapp
 Deployment of a containerized Apache web application on an EKS cluster using Kubernetes, featuring a LoadBalancer service and multiple replicas for high availability. It covers the full workflow from containerization to exposing the application externally via a LoadBalancer Service showcasing skills in Docker, Kubernetes deployments, and cloud orchestration.
 
+# Workflow
+
+![Flowchart](./images/WorkFlow.png)
+
 # Project Objectives
 
 - Containerize an Apache web application using Docker.
