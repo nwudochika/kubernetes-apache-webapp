@@ -6,6 +6,6 @@ metadata:
 spec:
   containers:
   - name: apache-container
-    image: nwudofidelis/fidelis-apache:v1.1
+    image: nwudofidelis/fidelis-apache:v1.1 # image pulled from DockerHub
     ports:
     - containerPort: 80
